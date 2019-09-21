@@ -1,1 +1,1 @@
-worker: python 커맨더 봇.py
+worker: python py.py
